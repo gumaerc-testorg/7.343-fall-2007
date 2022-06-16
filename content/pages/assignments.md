@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments, including
+  literature questions and two papers.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,7 +21,7 @@ Paper 1
 
 The text of a paper with the abstract and title omitted will be given to you. You will be expected to write a title and an abstract based on your in-depth reading and analysis of the paper. Due on Ses #6.
 
-Assignment 1 ([PDF]({{< baseurl >}}/resources/paper1))
+Assignment 1 ({{% resource_link 3d44cf6a-f3ef-2975-809b-10a79a8679cf "PDF" %}})
 
 Paper 2
 -------
