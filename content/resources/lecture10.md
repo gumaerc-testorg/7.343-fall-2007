@@ -7,6 +7,7 @@ file: /courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-spe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture10.pdf
 uid: 3554e0cd-3a42-4ead-2614-b19fc0f2be91
 ---
 Lecture slides on oxidative stress in neurodegenerative diseases, ROS production associated with amyloid plaques, ROS and mitochondrial dysfunction in neurodegeneration, and oxidative stress and glial inflammation.
-

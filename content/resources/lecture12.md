@@ -6,6 +6,7 @@ file: /courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-spe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture12.pdf
 uid: d7f9d52e-06a8-8e6d-45a6-5f5d46491d8b
 ---
 Lecture slides on antioxidants as potential therapy for human diseases, and tumor cells and elevated ROS levels.
-

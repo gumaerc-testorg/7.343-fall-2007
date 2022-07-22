@@ -7,6 +7,7 @@ file: /courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-spe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture5.pdf
 uid: 31548732-9e3e-1f30-64f4-79f118b69a8c
 ---
 Lecture slides on Polyphenolic Antioxidants, Epigallocatechin-3-gallate (EGCG), Epicatechin (EC), Resveratrol (3,5,4?-trihydroxyl-trans-stilbene), Procyanidins, Flavonoid Polyphenols, Cyclooxgenases (COX), and "Antioxidant capacity" Assays.
-

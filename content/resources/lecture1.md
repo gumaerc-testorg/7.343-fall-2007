@@ -7,6 +7,7 @@ file: /courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-spe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture1.pdf
 uid: 04c198de-9cdb-15ae-24e8-f2e00d435979
 ---
 Lecture slides with an introduction and background for the course. Includes class scope, class specifics and requirements, assignment details, and a short overview of oxygen radical biochemistry.
-

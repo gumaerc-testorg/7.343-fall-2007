@@ -9,6 +9,7 @@ file: /courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-spe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: 9bf90dce-fd94-3a48-56a2-9e864454c818
 ---
 Lecture slides on aging, the free radical theory, the rate of living hypothesis, model systems, and the challenges of distinguishing the many effects of elevated
 ROS in different pathologies.
-
