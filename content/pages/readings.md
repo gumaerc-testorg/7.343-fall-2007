@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of readings assigned for each session
+  of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: caeb7b59-2fc7-be9b-1769-2b8fa8047bf1
 ---
@@ -26,10 +31,10 @@ READINGS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 The high price of energy: Mitrochondrial production of ROS
 {{< tdclose >}}
 {{< tdopen >}}
@@ -62,10 +67,10 @@ Campian, J. L., M. Qian, X. Gao, and J. W. Eaton. "[Oxygen Tolerance and Couplin
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Radical messengers: ROS as facilitators of cellular signaling
 {{< tdclose >}}
 {{< tdopen >}}
@@ -128,10 +133,10 @@ Pham, C. G., S. Papa, C. Bubici, F. Zazzeroni, and G. Franzoso. "[Oxygen JNKies:
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Hired assassins: ROS in anti-pathogen defense
 {{< tdclose >}}
 {{< tdopen >}}
@@ -179,10 +184,10 @@ Vanden Berghe, T., W. Declercq, and P. Vandenabeele. "[NADPH Oxidases: New Playe
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 5
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Antioxidants: fighting the good fight
 {{< tdclose >}}
 {{< tdopen >}}
@@ -245,10 +250,10 @@ Corder, R., W. Mullen, N. Q. Khan, S. C. Marks, E. G. Wood, M. J. Carrier, and A
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 The free radical theory: ROS and aging
 {{< tdclose >}}
 {{< tdopen >}}
@@ -256,7 +261,7 @@ The free radical theory: ROS and aging
 
 ### Paper 1
 
-Today's two papers illustrate why Denham Harman's theory has been controversial. The first paper uses a mouse model to show that enhanced scavenging of mitochondrial H2O2 increases murine lifespan.
+Today's two papers illustrate why Denham Harman's theory has been controversial. The first paper uses a mouse model to show that enhanced scavenging of mitochondrial H{{< sub "2" >}}O{{< sub "2" >}} increases murine lifespan.
 
 
 {{< tdclose >}}
@@ -296,10 +301,10 @@ Trefunovic, A., A. Wredenberg, M. Falkenberg, J. N. Spelbrink, A. T. Rovio, C. E
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 The root of the problem: oxidative damage in stem cell renewal
 {{< tdclose >}}
 {{< tdopen >}}
@@ -337,7 +342,7 @@ Nijnik, A., L. Woodbine, C. Marchetti, S. Dawson, T. Lambe, C. Liu, and N. P. Ro
 
 ### Suggested background for paper 1
 
-A very short commentary on the role of H2O2 signaling in affecting cellular lifespan in hematopoietic stem cells.
+A very short commentary on the role of H{{< sub "2" >}}O{{< sub "2" >}} signaling in affecting cellular lifespan in hematopoietic stem cells.
 
 
 {{< tdclose >}}
@@ -347,10 +352,10 @@ Liu, J., and T. Finkel. "Stem Cell Aging: What Bleach can Teach." _Nature Medici
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 8
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Balancing act: ROS effects on insulin resistance and diabetes
 {{< tdclose >}}
 {{< tdopen >}}
@@ -398,10 +403,10 @@ Meng, T., D. A. Buckley, S. Galic, T. Tiganis, and N. K. Tonks. "[Regulation of 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Breaking hearts: ROS in ischemic reperfusion injury
 {{< tdclose >}}
 {{< tdopen >}}
@@ -434,10 +439,10 @@ Dewald, O., N. G. Frangogiannis, M. Zoerlein, G. D. Duerr, C. Klemm, P. Knueferm
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 10
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Brain drain: oxidative stress in neurodegenerative diseases
 {{< tdclose >}}
 {{< tdopen >}}
@@ -485,10 +490,10 @@ McNamara, J. O., and I Fridovich. "Did Radicals Strike Lou Gehrig?" _Nature_ 362
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 11
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Foot-soldiers of renegade cells: ROS in cancer and oncogenic transformation
 {{< tdclose >}}
 {{< tdopen >}}
@@ -536,10 +541,10 @@ Kennedy, N. J., C. Cellurale, and R. J. Davis. "[A Radical Role for p38 MAPK in 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 12
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Fighting fire with fire: more ROS or less ROS as therapeutic strategies?
 {{< tdclose >}}
 {{< tdopen >}}

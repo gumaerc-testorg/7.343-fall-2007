@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides lecture topics, lecture summaries, and a selection
+  of sample lecture slides.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 679ed906-6c72-b734-bcad-24640b5c9e1a
 ---
@@ -34,7 +39,7 @@ Introduction and background
 
 Instructor and students will introduce themselves, their backgrounds, and reasons for participating in the course. I will present the overall scope, requirements and assignments for the course. I will also review techniques for reading and analyzing the primary literature. A short overview of oxygen radical biochemistry will be provided. We will read and discuss a one-page concept paper (Abele, D. "The radical life-giver." _Nature_ 420 (2004): 27). Lastly, I will briefly introduce the topic for the following week's papers.
 
-Lecture 1 ([PDF]({{< baseurl >}}/resources/lecture1))
+Lecture 1 ({{% resource_link 04c198de-9cdb-15ae-24e8-f2e00d435979 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -94,7 +99,7 @@ Antioxidants: fighting the good fight
 
 This class will involve a discussion of how we are protected from the potentially toxic side effects of respiratory byproducts. Today's papers discuss the merits/limitations of dietary antioxidants.
 
-Lecture 5 ([PDF]({{< baseurl >}}/resources/lecture5))
+Lecture 5 ({{% resource_link 31548732-9e3e-1f30-64f4-79f118b69a8c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -112,7 +117,7 @@ The free radical theory: ROS and aging
 
 In 1957, Denham Harman first proposed that organisms age because their cells accumulate oxygen radical-induced damage over time. This is known as the free radical theory of aging. Twenty years later, Harman extended his theory to include the idea that the damaging radicals arise from age-related mitochondrial dysfunction. Although the free radical theory has garnered a lot of support over the years, its validation would require: 1) causally relating mitochondrial dysfunction with increasing ROS levels and accelerated aging and 2) demonstrating the ability to extend lifespan through reduction of ROS levels.
 
-Lecture 6 ([PDF]({{< baseurl >}}/resources/lecture6))
+Lecture 6 ({{% resource_link 9bf90dce-fd94-3a48-56a2-9e864454c818 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -142,7 +147,7 @@ Balancing act: ROS effects on insulin resistance and diabetes
 
 Insulin normally facilitates the transport of blood sugar derived from the foods we consume into our cells. Insulin resistance is a state in which cells no longer respond functionally to insulin levels, leading to its overproduction by the pancreas and the consequent buildup of blood sugar and fat. Insulin resistance is a critical feature of Type 2 diabetes. Today we will discuss the effects of ROS on modulating glucose metabolism and homeostasis via insulin levels.
 
-Lecture 8 ([PDF]({{< baseurl >}}/resources/lecture8))
+Lecture 8 ({{% resource_link 4a06510f-f05f-3624-c992-7f9c02239699 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -160,7 +165,7 @@ Breaking hearts: ROS in ischemic reperfusion injury
 
 Heart attacks cause damage to heart muscles by severely inhibiting blood supply to the heart. This reduction in cardiac blood flow is known as ischemia. Ischemic heart diseases such as atherosclerosis are the most common cause of death in western countries. Although returning blood to cardiac tissues (reperfusion) is the only way to salvage the dying heart, in the 1970s it was discovered that the reintroduction of blood and hence oxygen led to rapid and profound injury to heart tissue. The reoxygenation-associated injury has since been thought to be due to oxygen radicals that flood the anoxic heart and damage lipids and DNA components causing death of cardiac cells. A key debate has centered on whether the reoxygenation in fact kills heart cells via ROS-induced inflammation or whether it simply allows already dying cells to burst through osmotic effects. One way to address this question is to test the ability of antioxidants to reduce or prevent reperfusion injury.
 
-Lecture 9 ([PDF]({{< baseurl >}}/resources/lecture9))
+Lecture 9 ({{% resource_link da20f307-23db-d65f-6f3f-b5c1b804d90e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -178,7 +183,7 @@ Brain drain: oxidative stress in neurodegenerative diseases
 
 A number of neurodegenerative diseases such as Alzheimer's and Parkinson's diseases are associated with aging and its accompanying mitochondrial dysfunction and increased ROS levels. Amyotropic Lateral Sclerosis (ALS) or Lou Gehrig's disease is characterized by mutations in the antioxidant SOD1 gene. For many years, a causal role for ROS and mitochondrial defects in this disease has been hotly debated, with antioxidants being suggested as viable therapies. Several studies have proposed increased oxidative stress due to impaired superoxide scavenging by SOD1 as a causal mechanism for ALS.
 
-Lecture 10 ([PDF]({{< baseurl >}}/resources/lecture10))
+Lecture 10 ({{% resource_link 3554e0cd-3a42-4ead-2614-b19fc0f2be91 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -208,7 +213,7 @@ Fighting fire with fire: more ROS or less ROS as therapeutic strategies?
 
 Given the central role of ROS in the different pathologies we have discussed during the course of this class, therapeutic strategies involving ROS are being developed in a number of areas. In several cases of neurological or cardiac diseases, ROS scavengers or antioxidants have been found to reduce ROS-related tissue injury. However, in the case of tumors antioxidant therapy has been of limited benefit and therapeutic intervention involving ROS upregulation has proved more promising.
 
-Lecture 12 ([PDF]({{< baseurl >}}/resources/lecture12))
+Lecture 12 ({{% resource_link d7f9d52e-06a8-8e6d-45a6-5f5d46491d8b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -226,7 +231,7 @@ Final class presentations
 
 The oral presentations based on your final paper will be due today. You should prepare a 10-minute talk (using Microsoft® PowerPoint® slides). Your presentation should include a short introduction to the question you are addressing. Briefly summarize the conflicting evidence from the two papers you have chosen and then explain the experimental model and approach you have used to resolve the issue at hand. Describe how your proposed experiments help resolve the central issue of your topic. After each talk, we will spend a few minutes discussing the talk with the rest of the class. At the end of the presentations, I will provide feedback about the talks and your papers.
 
-Lecture 13 ([PDF]({{< baseurl >}}/resources/lecture13))
+Lecture 13 ({{% resource_link e3b463ab-79a4-7342-9da9-30066d133354 "PDF" %}})
 
 
 {{< tdclose >}}
