@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Instructions for completing the first writing assignment.
-file: /courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-species-in-aging-and-disease-fall-2007/3d44cf6af3ef2975809b10a79a8679cf_paper1.pdf
+file: /ol-ocw-studio-app/courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-species-in-aging-and-disease-fall-2007/3d44cf6af3ef2975809b10a79a8679cf_paper1.pdf
+file_size: 15494
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,7 +3,8 @@ content_type: resource
 description: Lecture slides on Polyphenolic Antioxidants, Epigallocatechin-3-gallate
   (EGCG), Epicatechin (EC), Resveratrol (3,5,4?-trihydroxyl-trans-stilbene), Procyanidins,
   Flavonoid Polyphenols, Cyclooxgenases (COX), and "Antioxidant capacity" Assays.
-file: /courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-species-in-aging-and-disease-fall-2007/315487329e3e1f3064f479f118b69a8c_lecture5.pdf
+file: /ol-ocw-studio-app/courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-species-in-aging-and-disease-fall-2007/315487329e3e1f3064f479f118b69a8c_lecture5.pdf
+file_size: 69918
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

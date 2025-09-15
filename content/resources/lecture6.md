@@ -5,7 +5,8 @@ description: 'Lecture slides on aging, the free radical theory, the rate of livi
   of elevated
 
   ROS in different pathologies.'
-file: /courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-species-in-aging-and-disease-fall-2007/9bf90dcefd943a4856a29e864454c818_lecture6.pdf
+file: /ol-ocw-studio-app/courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-species-in-aging-and-disease-fall-2007/9bf90dcefd943a4856a29e864454c818_lecture6.pdf
+file_size: 25785
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

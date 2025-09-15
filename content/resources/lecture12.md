@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture slides on antioxidants as potential therapy for human diseases,
   and tumor cells and elevated ROS levels.
-file: /courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-species-in-aging-and-disease-fall-2007/d7f9d52e06a88e6d45a65f5d46491d8b_lecture12.pdf
+file: /ol-ocw-studio-app/courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-species-in-aging-and-disease-fall-2007/d7f9d52e06a88e6d45a65f5d46491d8b_lecture12.pdf
+file_size: 13747
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

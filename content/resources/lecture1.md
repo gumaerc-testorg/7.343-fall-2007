@@ -3,7 +3,8 @@ content_type: resource
 description: Lecture slides with an introduction and background for the course. Includes
   class scope, class specifics and requirements, assignment details, and a short overview
   of oxygen radical biochemistry.
-file: /courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-species-in-aging-and-disease-fall-2007/04c198de9cdb15ae24e8f2e00d435979_lecture1.pdf
+file: /ol-ocw-studio-app/courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-species-in-aging-and-disease-fall-2007/04c198de9cdb15ae24e8f2e00d435979_lecture1.pdf
+file_size: 33118
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

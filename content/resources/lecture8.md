@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture slides on diabetes, insulin resistance, and pharmaceutically
   mediated insulin sensitization.
-file: /courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-species-in-aging-and-disease-fall-2007/4a06510ff05f3624c9927f9c02239699_lecture8.pdf
+file: /ol-ocw-studio-app/courses/7-343-the-radical-consequences-of-respiration-reactive-oxygen-species-in-aging-and-disease-fall-2007/4a06510ff05f3624c9927f9c02239699_lecture8.pdf
+file_size: 13817
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
