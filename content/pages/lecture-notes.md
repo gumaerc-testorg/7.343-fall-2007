@@ -81,7 +81,7 @@ Hired assassins: ROS in anti-pathogen defense
 
 Last week we discussed how moderate ROS levels modulate signaling pathways. The best evidence for ROS in normal physiological functioning comes from the existence of specific enzymes, namely NADPH oxidases or Nox, whose function is to produce controlled bursts of oxygen radicals. Nox enzyme function is particularly useful in immune cells, such as neutrophils, mast cells and macrophages, in which the oxygen radical production is used to activate proteases to kill invading bacteria and other pathogens.
 
-[Apoptosis Video](http://youtube.com/watch?v=witLM--V2v8)
+{{% resource_link "c52f91ae-a8ae-40b8-86c5-e7252d389733" "Apoptosis Video" %}}
 
 
 {{< tdclose >}}

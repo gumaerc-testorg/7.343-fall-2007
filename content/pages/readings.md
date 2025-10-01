@@ -47,7 +47,7 @@ The first paper describes mechanisms by which ROS are produced in the mitochondr
 
 {{< tdclose >}}
 {{< tdopen >}}
-Chen, Q., E. J. Vazquez, S. Moghaddas, C. L. Hoppel, and E. J. Lesnefsky. "[Production of Reactive Oxygen Species by Mitochondria: Central Role of Complex III](http://www.ncbi.nlm.nih.gov/pubmed/12840017)." _J Biol Chem_ 278 (2003): 36027-31.
+Chen, Q., E. J. Vazquez, S. Moghaddas, C. L. Hoppel, and E. J. Lesnefsky. "{{% resource_link "58e993d9-9a8d-4754-8100-602573027f46" "Production of Reactive Oxygen Species by Mitochondria: Central Role of Complex III" %}}." _J Biol Chem_ 278 (2003): 36027-31.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +62,7 @@ The second paper discusses how coupling electron transfer to available oxygen af
 
 {{< tdclose >}}
 {{< tdopen >}}
-Campian, J. L., M. Qian, X. Gao, and J. W. Eaton. "[Oxygen Tolerance and Coupling of Mitochondrial Electron Transport](http://www.jbc.org/cgi/content/full/279/45/46580)." _J Biol Chem_ 279 (2004): 46580-7.
+Campian, J. L., M. Qian, X. Gao, and J. W. Eaton. "{{% resource_link "9f0ae66f-114f-4a29-b814-58ca1ee90f21" "Oxygen Tolerance and Coupling of Mitochondrial Electron Transport" %}}." _J Biol Chem_ 279 (2004): 46580-7.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +83,7 @@ The first paper describes how ROS can affect the activity of protein tyrosine ph
 
 {{< tdclose >}}
 {{< tdopen >}}
-Meng, T. C., T. Fukada, and N. K. Tonks. "[Reversible Oxidation and Inactivation of Protein Tyrosine Phosphatases _in vivo_](http://www.ncbi.nlm.nih.gov/pubmed/11864611)." _Mol Cell_ 9 (2002): 387-99.
+Meng, T. C., T. Fukada, and N. K. Tonks. "{{% resource_link "2d479abc-2182-4fa5-839b-c5ce0649cc63" "Reversible Oxidation and Inactivation of Protein Tyrosine Phosphatases _in vivo_" %}}." _Mol Cell_ 9 (2002): 387-99.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +98,7 @@ The second paper provides an example of how modulating PTP function can regulate
 
 {{< tdclose >}}
 {{< tdopen >}}
-Kamata, H., S. Honda, S. Maeda, L. Chang, H. Hirata, and M. Karin. "[Reactive Oxygen Species Promote TNFalpha-induced Death and Sustained JNK Activation by Inhibiting MAP Kinase Phosphatases](http://dx.doi.org/10.1016/j.ccr.2006.08.015)." _Cell_ 120 (2005): 649-61.
+Kamata, H., S. Honda, S. Maeda, L. Chang, H. Hirata, and M. Karin. "{{% resource_link "933810f9-550b-4627-ae8f-3c63161a692f" "Reactive Oxygen Species Promote TNFalpha-induced Death and Sustained JNK Activation by Inhibiting MAP Kinase Phosphatases" %}}." _Cell_ 120 (2005): 649-61.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +113,7 @@ This is a very short review of paper 1. It gives an overview of what the issues 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Dong, X., I. I. Rovira, and T. Finkel. "[Oxidants Painting the Cysteine Chapel: Redox Regulation of PTPs](http://www.ncbi.nlm.nih.gov/pubmed/11879627)." _Dev Cell_ 2 (2002): 251-2.
+Dong, X., I. I. Rovira, and T. Finkel. "{{% resource_link "0cc4a9f1-5b9c-4f19-8d68-8935b9ebc486" "Oxidants Painting the Cysteine Chapel: Redox Regulation of PTPs" %}}." _Dev Cell_ 2 (2002): 251-2.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +128,7 @@ Another short review discussing the stress kinase pathways involved in ROS signa
 
 {{< tdclose >}}
 {{< tdopen >}}
-Pham, C. G., S. Papa, C. Bubici, F. Zazzeroni, and G. Franzoso. "[Oxygen JNKies: Phosphatases Overdose on ROS](http://www.ncbi.nlm.nih.gov/pubmed/15809025)." _Dev Cell_ 8 (2005): 452-4.
+Pham, C. G., S. Papa, C. Bubici, F. Zazzeroni, and G. Franzoso. "{{% resource_link "75c2bdfa-49da-4e3d-8695-48933efb137a" "Oxygen JNKies: Phosphatases Overdose on ROS" %}}." _Dev Cell_ 8 (2005): 452-4.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +149,7 @@ The first paper follows up on the mechanism of ROS production in TNF-alpha-induc
 
 {{< tdclose >}}
 {{< tdopen >}}
-Kim, Y. S., M. J. Morgan, S. Choksi, and Z. G. Liu. "[TNF-induced Activation of the Nox1 NADPH Oxidase and its Role in the Induction of Necrotic Cell Death](http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Retrieve&db=PubMed&list_uids=17560373&dopt=AbstractPlus)." _Mol Cell_ 26 (2007): 675-87.
+Kim, Y. S., M. J. Morgan, S. Choksi, and Z. G. Liu. "{{% resource_link "32ce3741-d0e4-4baf-9750-88d34b30befa" "TNF-induced Activation of the Nox1 NADPH Oxidase and its Role in the Induction of Necrotic Cell Death" %}}." _Mol Cell_ 26 (2007): 675-87.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +164,7 @@ The second paper describes how the anti-microbial peptide histatin, found in sal
 
 {{< tdclose >}}
 {{< tdopen >}}
-Helmerhorst, E. J., R. F. Troxler, and F. G. Oppenheim. "[The Human Salivary Peptide Histatin 5 Exerts its Antifungal Activity Through the Formation of Reactive Oxygen Species](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=64734)." _Proc Natl Acad Sci USA_ 98 (2001): 14637-42.
+Helmerhorst, E. J., R. F. Troxler, and F. G. Oppenheim. "{{% resource_link "ea4f9ace-d78f-4ca2-81ef-a925f6686f49" "The Human Salivary Peptide Histatin 5 Exerts its Antifungal Activity Through the Formation of Reactive Oxygen Species" %}}." _Proc Natl Acad Sci USA_ 98 (2001): 14637-42.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,7 +179,7 @@ A short review that summarizes the pathway linking ROS production by NADPH oxida
 
 {{< tdclose >}}
 {{< tdopen >}}
-Vanden Berghe, T., W. Declercq, and P. Vandenabeele. "[NADPH Oxidases: New Players in TNF-induced Necrotic Cell Death](http://www.ncbi.nlm.nih.gov/pubmed/17588511)." _Mol Cell_ 26 (2007): 769-71.
+Vanden Berghe, T., W. Declercq, and P. Vandenabeele. "{{% resource_link "30e6d0b4-2e67-4ea8-b0a7-bf4988e80b02" "NADPH Oxidases: New Players in TNF-induced Necrotic Cell Death" %}}." _Mol Cell_ 26 (2007): 769-71.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +200,7 @@ The first paper discusses the antioxidant benefits of a key ingredient of red wi
 
 {{< tdclose >}}
 {{< tdopen >}}
-Jang, M., L. Cai, G. O. Udeani, K. V. Slowing, C. F. Thomas, C. W. Beecher, and H. H. Fong, et al. "[Cancer Chemopreventive Activity of Resveratrol, a Natural Product Derived from Grapes](http://www.ncbi.nlm.nih.gov/pubmed/8985016)." _Science_ 275 (1997): 218-20.
+Jang, M., L. Cai, G. O. Udeani, K. V. Slowing, C. F. Thomas, C. W. Beecher, and H. H. Fong, et al. "{{% resource_link "a9ea1692-7f4e-462a-a5ea-c58e512ee4da" "Cancer Chemopreventive Activity of Resveratrol, a Natural Product Derived from Grapes" %}}." _Science_ 275 (1997): 218-20.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -266,7 +266,7 @@ Today's two papers illustrate why Denham Harman's theory has been controversial.
 
 {{< tdclose >}}
 {{< tdopen >}}
-Trifunovic, A., A. Hansson, A. Wredenberg, A. T. Rovio, E. Dufour, I. Khvorostov, J. N. Spelbrink, R. Wibom, H. T. Jacobs, and N. G. Larsson. "[Somatic mtDNA Mutations Cause Aging Phenotypes without Affecting Reactive Oxygen Species Production](http://www.ncbi.nlm.nih.gov/pubmed/16332961)." _Proc Natl Acad Sci USA_ 102 (2005): 17993-8.
+Trifunovic, A., A. Hansson, A. Wredenberg, A. T. Rovio, E. Dufour, I. Khvorostov, J. N. Spelbrink, R. Wibom, H. T. Jacobs, and N. G. Larsson. "{{% resource_link "5e9f2826-4452-452b-bd26-3c6c70702043" "Somatic mtDNA Mutations Cause Aging Phenotypes without Affecting Reactive Oxygen Species Production" %}}." _Proc Natl Acad Sci USA_ 102 (2005): 17993-8.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -383,7 +383,7 @@ The second paper demonstrates the caveats of using antioxidant-based measures to
 
 {{< tdclose >}}
 {{< tdopen >}}
-McClung, J. P., C. A. Roneker, W. Mu, D. J. Lisk, P. Langlais, F. Liu, and X. G. Lei. "[Development of Insulin Resistance and Obesity in Mice Overexpressing Cellular Glutathione Peroxidase](http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&uid=15184668&cmd=showdetailview&indexed=google)." _Proc Natl Acad Sci USA_ 101 (2004): 8852-7.
+McClung, J. P., C. A. Roneker, W. Mu, D. J. Lisk, P. Langlais, F. Liu, and X. G. Lei. "{{% resource_link "d9c86285-6582-4bc3-a799-c8c2869e1f8e" "Development of Insulin Resistance and Obesity in Mice Overexpressing Cellular Glutathione Peroxidase" %}}." _Proc Natl Acad Sci USA_ 101 (2004): 8852-7.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -398,7 +398,7 @@ This is a paper by the same authors who conducted the studies on PTP signaling t
 
 {{< tdclose >}}
 {{< tdopen >}}
-Meng, T., D. A. Buckley, S. Galic, T. Tiganis, and N. K. Tonks. "[Regulation of Insulin Signaling Through Reversible Oxidation of the Protein-tyrosine Phosphatases TC45 and PTP1B](http://www.jbc.org/cgi/content/full/279/36/37716)." _J Biol Chem_ 279 (2004): 37716-25.
+Meng, T., D. A. Buckley, S. Galic, T. Tiganis, and N. K. Tonks. "{{% resource_link "15780e61-798f-4314-9a5f-563875a5a181" "Regulation of Insulin Signaling Through Reversible Oxidation of the Protein-tyrosine Phosphatases TC45 and PTP1B" %}}." _J Biol Chem_ 279 (2004): 37716-25.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -419,7 +419,7 @@ The first paper demonstrates that oxygen radicals are rapidly produced following
 
 {{< tdclose >}}
 {{< tdopen >}}
-Zweier, J. L., J. T. Flaherty, and M. L. Weisfeldt. "[Direct Measurement of Free Radical Generation following Reperfusion of Ischemic Myocardium](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=304438)." _Proc Natl Acad Sci USA_ 84 (1987): 1404-7.
+Zweier, J. L., J. T. Flaherty, and M. L. Weisfeldt. "{{% resource_link "ddc38b4c-b8c1-47fa-8a1c-03e47b989233" "Direct Measurement of Free Radical Generation following Reperfusion of Ischemic Myocardium" %}}." _Proc Natl Acad Sci USA_ 84 (1987): 1404-7.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -536,7 +536,7 @@ A very short perspective on the first paper we will be discussing.
 
 {{< tdclose >}}
 {{< tdopen >}}
-Kennedy, N. J., C. Cellurale, and R. J. Davis. "[A Radical Role for p38 MAPK in Tumor Initiation](http://dx.doi.org/10.1016/j.cell.2004.12.041)." _Cancer Cell_ 11 (2007): 101-3.
+Kennedy, N. J., C. Cellurale, and R. J. Davis. "{{% resource_link "31b57ecf-6419-4fe0-af54-44cf6d60b5f6" "A Radical Role for p38 MAPK in Tumor Initiation" %}}." _Cancer Cell_ 11 (2007): 101-3.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -572,7 +572,7 @@ The second paper discusses the utility of a ROS-inducing chemical in selectively
 
 {{< tdclose >}}
 {{< tdopen >}}
-Trachootham, D., Y. Zhou, H. Zhang, Y. Demizu, Z. Chen, H. Pelicano, and P. J. Chiao, et al. "[Selective Killing of Oncogenically Transformed Cells Through a ROS-mediated Mechanism by Beta-phenylethyl Isothiocyanate](http://dx.doi.org/10.1016/j.ccr.2006.08.009)." _Cancer Cell_ 10 (2006): 241-52.
+Trachootham, D., Y. Zhou, H. Zhang, Y. Demizu, Z. Chen, H. Pelicano, and P. J. Chiao, et al. "{{% resource_link "7d1d1024-7df2-4961-b2d4-593a64f8ded5" "Selective Killing of Oncogenically Transformed Cells Through a ROS-mediated Mechanism by Beta-phenylethyl Isothiocyanate" %}}." _Cancer Cell_ 10 (2006): 241-52.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -587,7 +587,7 @@ A short 1.5 page review discussing the role of increasing ROS as anticancer ther
 
 {{< tdclose >}}
 {{< tdopen >}}
-Schumacker, P. T. "[Reactive Oxygen Species in Cancer Cells: Live by the Sword, Die by the Sword](http://dx.doi.org/10.1016/j.ccr.2007.01.009)." _Cancer Cell_ 10 (2006): 175-176.
+Schumacker, P. T. "{{% resource_link "9c498c1d-574a-4135-b6fa-0de91ea2c7a7" "Reactive Oxygen Species in Cancer Cells: Live by the Sword, Die by the Sword" %}}." _Cancer Cell_ 10 (2006): 175-176.
 {{< tdclose >}}
 
 {{< trclose >}}
